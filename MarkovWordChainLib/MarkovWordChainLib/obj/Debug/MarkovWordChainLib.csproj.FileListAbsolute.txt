@@ -1,0 +1,5 @@
+D:\Programming\C#\Projects\MarkovWordChainLib\MarkovWordChainLib\bin\Debug\MarkovWordChainLib.dll
+D:\Programming\C#\Projects\MarkovWordChainLib\MarkovWordChainLib\bin\Debug\MarkovWordChainLib.pdb
+D:\Programming\C#\Projects\MarkovWordChainLib\MarkovWordChainLib\obj\Debug\MarkovWordChainLib.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Projects\MarkovWordChainLib\MarkovWordChainLib\obj\Debug\MarkovWordChainLib.dll
+D:\Programming\C#\Projects\MarkovWordChainLib\MarkovWordChainLib\obj\Debug\MarkovWordChainLib.pdb
